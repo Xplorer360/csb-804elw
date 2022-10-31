@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://xplorer360.github.io/csb-804elw/static/css/main.99004a80.chunk.css",
+    "main.js": "https://xplorer360.github.io/csb-804elw/static/js/main.51b9dea8.chunk.js",
+    "main.js.map": "https://xplorer360.github.io/csb-804elw/static/js/main.51b9dea8.chunk.js.map",
+    "runtime-main.js": "https://xplorer360.github.io/csb-804elw/static/js/runtime-main.fd1506da.js",
+    "runtime-main.js.map": "https://xplorer360.github.io/csb-804elw/static/js/runtime-main.fd1506da.js.map",
+    "static/js/2.b6b3a3cd.chunk.js": "https://xplorer360.github.io/csb-804elw/static/js/2.b6b3a3cd.chunk.js",
+    "static/js/2.b6b3a3cd.chunk.js.map": "https://xplorer360.github.io/csb-804elw/static/js/2.b6b3a3cd.chunk.js.map",
+    "index.html": "https://xplorer360.github.io/csb-804elw/index.html",
+    "static/css/main.99004a80.chunk.css.map": "https://xplorer360.github.io/csb-804elw/static/css/main.99004a80.chunk.css.map",
+    "static/js/2.b6b3a3cd.chunk.js.LICENSE.txt": "https://xplorer360.github.io/csb-804elw/static/js/2.b6b3a3cd.chunk.js.LICENSE.txt",
+    "static/media/BTR_9991 copy.04ef7e81.JPG": "https://xplorer360.github.io/csb-804elw/static/media/BTR_9991 copy.04ef7e81.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd1506da.js",
+    "static/js/2.b6b3a3cd.chunk.js",
+    "static/css/main.99004a80.chunk.css",
+    "static/js/main.51b9dea8.chunk.js"
+  ]
+}
